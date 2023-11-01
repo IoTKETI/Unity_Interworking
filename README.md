@@ -9,7 +9,7 @@
 | Network Connection Environment | Stable connection     |
 
 
-## Installation
+## Prerequisite Installation
 1. Decompress the split zip file.
 2. Visit https://unity.com/kr/download.
 3. Click on [Download for Windows].
@@ -35,7 +35,7 @@
 | 디스크 저장공간             | 500MB 이상               |
 | 네트워크 연결 환경          | 안정적인 연결            |
 
-## 설치
+## 사전 설치
 1. 분할 압축 된 zip 파일을 압축 해제합니다.
 2. https://unity.com/kr/download에 접속합니다.
 3. [Windows용 다운로드]를 클릭합니다.
