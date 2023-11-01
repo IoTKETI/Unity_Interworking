@@ -1,6 +1,15 @@
 # Unity_Interworking
 
-# Installation
+## Recommended System Requirements
+
+| Item                        | Details                  |
+|-----------------------------|--------------------------|
+| OS                          | Windows 10 ~              |
+| Disk Storage                | 500MB or more            |
+| Network Connection Environment | Stable connection     |
+
+
+## Installation
 1. Decompress the split zip file.
 2. Visit https://unity.com/kr/download.
 3. Click on [Download for Windows].
@@ -15,11 +24,18 @@
 12. Click on [Get a free personal license].
 13. Click on [Agree and get personal edition license].
 14. Click on the [X] at the top right of [Preferences].
-15. From the left list, click on [Projects].
-16. On the right side of [Projects], click [Add].
-17. Select the folder decompressed in step 1 and click [open].
 
-# 설치
+---
+
+## 권장 구동 환경 사항
+
+| 항목                        | 상세사항                 |
+|-----------------------------|-------------------------|
+| OS                          | 윈도우 10 ~               |
+| 디스크 저장공간             | 500MB 이상               |
+| 네트워크 연결 환경          | 안정적인 연결            |
+
+## 설치
 1. 분할 압축 된 zip 파일을 압축 해제합니다.
 2. https://unity.com/kr/download에 접속합니다.
 3. [Windows용 다운로드]를 클릭합니다.
@@ -34,6 +50,3 @@
 12. [Get a free personal license]를 클릭합니다.
 13. [Agree and get personal edition license]를 클릭합니다.
 14. [Preferences]의 우측 상단에 있는 [X]를 클릭합니다.
-15. 좌측 리스트에서 [Projects]를 클릭합니다.
-16.  [Projects]의 우측에서 [Add]를 클릭합니다.
-17. 1번에서 압축 해제한 폴더를 선택 후 [open]을 클릭합니다.
