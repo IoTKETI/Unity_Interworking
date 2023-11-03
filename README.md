@@ -37,7 +37,7 @@
 
 ## 사전 설치
 1. 분할 압축 된 zip 파일을 압축 해제합니다.
-2. https://unity.com/kr/download에 접속합니다.
+2. https://unity.com/kr/download 에 접속합니다.
 3. [Windows용 다운로드]를 클릭합니다.
 4. [UnityHubSetup.exe]를 실행합니다.
 5. [UnityHub]를 실행합니다.
