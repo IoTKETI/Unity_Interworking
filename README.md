@@ -12,20 +12,21 @@ This involves understanding how to efficiently synchronize real-world data with 
 
 
 ## Prerequisite Installation
-1. Download and decompress the zip file from Releases. https://github.com/IoTKETI/Unity_Interworking/releases
-2. Visit https://unity.com/kr/download.
-3. Click on [Download for Windows].
-4. Execute [UnityHubSetup.exe].
-5. Launch [UnityHub].
-6. Click on [Install Unity Editor].
-7. Wait for the installation to complete.
-8. Click on the gear icon (settings) on the left side of [Downloads].
-9. From the left list, click on [Licenses].
-10. Click on [Manage licenses] in the top right corner.
-11. Click on [Add license].
-12. Click on [Get a free personal license].
-13. Click on [Agree and get personal edition license].
-14. Click on the [X] at the top right of [Preferences].
+1. Download Visual Studio Code from https://code.visualstudio.com/download.
+2. In the Windows search bar, type and run [Visual Studio Installer].
+3. Click on [Modify (M)] on the right side of the installed Visual Studio.
+4. In the [Game] category, select [Game Development with Unity], then apply changes by clicking [Modify (M)] on the bottom right.
+5. Download and extract the zip file from the Releases at https://github.com/IoTKETI/Unity_Interworking/releases.
+6. Run [UnityHub].
+7. Click on [Install Unity Editor].
+8. Wait for the installation to complete.
+9. Click on the gear icon (Settings) on the left side of [Downloads].
+10. In the left menu, click on [Licenses].
+11. Click on [Manage licenses] in the top right.
+12. Click on [Add license].
+13. Click on [Get a free personal license].
+14. Click on [Agree and get personal edition license].
+15. Close the [Preferences] by clicking the [X] on the top right.
 
 ---
 
@@ -38,17 +39,18 @@ This involves understanding how to efficiently synchronize real-world data with 
 | 네트워크 연결 환경          | 안정적인 연결            |
 
 ## 사전 설치
-1. Releases에서 zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking/releases
-2. https://unity.com/kr/download 에 접속합니다.
-3. [Windows용 다운로드]를 클릭합니다.
-4. [UnityHubSetup.exe]를 실행합니다.
-5. [UnityHub]를 실행합니다.
-6. [Install Unity Editor]를 클릭합니다.
-7. 설치가 완료되기를 기다립니다.
-8. [Downloads] 좌측의 톱니바퀴 아이콘 (설정)을 클릭합니다.
-9. 좌측 리스트에서 [Licenses]를 클릭합니다.
-10. 우측 상단의 [Manage licenses]를 클릭합니다.
-11. [Add license]를 클릭합니다.
-12. [Get a free personal license]를 클릭합니다.
-13. [Agree and get personal edition license]를 클릭합니다.
-14. [Preferences]의 우측 상단에 있는 [X]를 클릭합니다.
+1. Visual Studio Code를 다운로드 합니다. https://code.visualstudio.com/download
+2. 윈도우 검색창에 Visual Studio Installer을 입력 및 실행합니다.
+3. 설치된 Visual Studio의 우측의 [수정(M)]을 클릭합니다.
+4. [게임]항목에서 [Unity를 사용한 게임 개발]을 선택 후 우측 하단의 [수정(M)]을 눌러 적용합니다.
+5. Releases에서 zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking/releases
+6. [UnityHub]를 실행합니다.
+7. [Install Unity Editor]를 클릭합니다.
+8. 설치가 완료되기를 기다립니다.
+9. [Downloads] 좌측의 톱니바퀴 아이콘 (설정)을 클릭합니다.
+10. 좌측 리스트에서 [Licenses]를 클릭합니다.
+11. 우측 상단의 [Manage licenses]를 클릭합니다.
+12. [Add license]를 클릭합니다.
+13. [Get a free personal license]를 클릭합니다.
+14. [Agree and get personal edition license]를 클릭합니다.
+15. [Preferences]의 우측 상단에 있는 [X]를 클릭합니다.
