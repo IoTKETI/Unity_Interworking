@@ -10,7 +10,7 @@
 
 
 ## Prerequisite Installation
-1. Decompress the split zip file.
+1. Download and decompress the zip file from Releases on the right.
 2. Visit https://unity.com/kr/download.
 3. Click on [Download for Windows].
 4. Execute [UnityHubSetup.exe].
@@ -36,7 +36,7 @@
 | 네트워크 연결 환경          | 안정적인 연결            |
 
 ## 사전 설치
-1. 분할 압축 된 zip 파일을 압축 해제합니다.
+1. 우측의 Releases에서 zip 파일을 다운로드 및 압축 해제합니다.
 2. https://unity.com/kr/download 에 접속합니다.
 3. [Windows용 다운로드]를 클릭합니다.
 4. [UnityHubSetup.exe]를 실행합니다.
