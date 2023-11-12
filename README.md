@@ -1,4 +1,6 @@
-# Unity_Interworking
+# oneM2M – Digital Twin Interworking(Unity)
+#### Discover the process of constructing digital twins using the oneM2M API within the Unity framework.
+This involves understanding how to efficiently synchronize real-world data with virtual representations, leveraging oneM2M's robust IoT communication protocols to ensure accurate and timely updates of the digital twin.
 
 ## Recommended System Requirements
 
