@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90aeab3e5f29bee4c859e1bbcbcae785, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 14c4b9c6e45f89548a3cfcc514ca788e, type: 3}
+  title: oneM2M – Digital Twin Interworking(Unity)
+  sections:
+  - heading: oneM2M – Digital Twin Interworking(Unity)
+  - heading: 
+    linkText: asset Copyright ⓒ 2021 Goldmetal
+    url: https://www.goldmetal.co.kr
+  loadedLayout: 1
