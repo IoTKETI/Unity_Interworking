@@ -16,7 +16,7 @@ This involves understanding how to efficiently synchronize real-world data with 
 2. In the Windows search bar, type and run [Visual Studio Installer].
 3. Click on [Modify (M)] on the right side of the installed Visual Studio.
 4. In the [Game] category, select [Game Development with Unity], then apply changes by clicking [Modify (M)] on the bottom right.
-5. Download and extract the zip file from the Releases at https://github.com/IoTKETI/Unity_Interworking/releases.
+5. Download and extract the zip file at https://github.com/IoTKETI/Unity_Interworking
 6. Run [UnityHub].
 7. Click on [Install Unity Editor].
 8. Wait for the installation to complete.
@@ -43,7 +43,7 @@ This involves understanding how to efficiently synchronize real-world data with 
 2. 윈도우 검색창에 Visual Studio Installer을 입력 및 실행합니다.
 3. 설치된 Visual Studio의 우측의 [수정(M)]을 클릭합니다.
 4. [게임]항목에서 [Unity를 사용한 게임 개발]을 선택 후 우측 하단의 [수정(M)]을 눌러 적용합니다.
-5. Releases에서 zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking/releases
+5. zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking
 6. [UnityHub]를 실행합니다.
 7. [Install Unity Editor]를 클릭합니다.
 8. 설치가 완료되기를 기다립니다.
