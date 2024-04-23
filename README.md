@@ -2,6 +2,10 @@
 #### Discover the process of constructing digital twins using the oneM2M API within the Unity framework.
 This involves understanding how to efficiently synchronize real-world data with virtual representations, leveraging oneM2M's robust IoT communication protocols to ensure accurate and timely updates of the digital twin.
 
+## CAUTION
+Please be aware of the Unity license. For more details, refer to the following.<br>
+https://unity.com/kr/legal/editor-terms-of-service/software/faq
+
 ## Recommended System Requirements
 
 | Item                        | Details                  |
@@ -16,7 +20,7 @@ This involves understanding how to efficiently synchronize real-world data with 
 2. In the Windows search bar, type and run [Visual Studio Installer].
 3. Click on [Modify (M)] on the right side of the installed Visual Studio.
 4. In the [Game] category, select [Game Development with Unity], then apply changes by clicking [Modify (M)] on the bottom right.
-5. Download and extract the zip file at https://github.com/IoTKETI/Unity_Interworking
+5. Download and extract the zip file from the Releases at https://github.com/IoTKETI/Unity_Interworking/releases.
 6. Run [UnityHub].
 7. Click on [Install Unity Editor].
 8. Wait for the installation to complete.
@@ -29,6 +33,10 @@ This involves understanding how to efficiently synchronize real-world data with 
 15. Close the [Preferences] by clicking the [X] on the top right.
 
 ---
+
+## 주의사항
+유니티 라이센스에 관해 주의하세요. 자세한 사항은 다음을 참고하시기 바랍니다.<br>
+https://unity.com/kr/legal/editor-terms-of-service/software/faq
 
 ## 권장 구동 환경 사항
 
@@ -43,7 +51,7 @@ This involves understanding how to efficiently synchronize real-world data with 
 2. 윈도우 검색창에 Visual Studio Installer을 입력 및 실행합니다.
 3. 설치된 Visual Studio의 우측의 [수정(M)]을 클릭합니다.
 4. [게임]항목에서 [Unity를 사용한 게임 개발]을 선택 후 우측 하단의 [수정(M)]을 눌러 적용합니다.
-5. zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking
+5. Releases에서 zip 파일을 다운로드 및 압축 해제합니다. https://github.com/IoTKETI/Unity_Interworking/releases
 6. [UnityHub]를 실행합니다.
 7. [Install Unity Editor]를 클릭합니다.
 8. 설치가 완료되기를 기다립니다.
