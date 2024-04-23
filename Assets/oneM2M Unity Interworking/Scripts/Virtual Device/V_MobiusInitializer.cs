@@ -87,7 +87,7 @@ public class V_MobiusInitializer : MonoBehaviour
     }
 
     // General method for sending requests to Mobius
-    private IEnumerator SendMobiusRequest(string url, string jsonData, string logPrefix, string contentType)
+    private IEnumerator SendMobiusRequest(string url, string jsonData, string logPrefix, string resourceType)
     {
         // Initialize a new UnityWebRequest with the given url and POST method
         using (UnityWebRequest request = new UnityWebRequest(url, "POST"))
@@ -96,7 +96,7 @@ public class V_MobiusInitializer : MonoBehaviour
             request.uploadHandler = new UploadHandlerRaw(bodyRaw);
             request.downloadHandler = new DownloadHandlerBuffer(); // Set up a download handler that will handle the response data
 
-            SetRequestHeaders(request, contentType); // Set custom headers for the request
+            SetRequestHeaders(request, resourceType); // Set custom headers for the request
 
             yield return request.SendWebRequest(); // Send the request and wait until it is done
 
@@ -105,11 +105,11 @@ public class V_MobiusInitializer : MonoBehaviour
     }
 
     // Helper method to set custom headers required by Mobius for the request
-    private void SetRequestHeaders(UnityWebRequest request, string contentType)
+    private void SetRequestHeaders(UnityWebRequest request, string resourceType)
     {
         request.SetRequestHeader("X-M2M-RI", "12345");
         request.SetRequestHeader("X-M2M-Origin", "S");
-        request.SetRequestHeader("Content-Type", contentType);
+        request.SetRequestHeader("Content-Type", resourceType);
     }
 
     // Helper method to process the response from Mobius after a request
