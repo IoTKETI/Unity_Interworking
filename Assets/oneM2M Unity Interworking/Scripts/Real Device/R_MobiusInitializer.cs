@@ -76,7 +76,7 @@ public class R_MobiusInitializer : MonoBehaviour
     private void SetRequestHeaders(UnityWebRequest request, string resourceType)
     {
         request.SetRequestHeader("X-M2M-RI", "12345");
-        request.SetRequestHeader("X-M2M-Origin", "S");
+        request.SetRequestHeader("X-M2M-Origin", "SOrigin");
         request.SetRequestHeader("Content-Type", resourceType);
     }
 
