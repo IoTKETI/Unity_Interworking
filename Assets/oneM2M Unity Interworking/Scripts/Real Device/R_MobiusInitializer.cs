@@ -32,8 +32,7 @@ public class R_MobiusInitializer : MonoBehaviour
             ""m2m:sub"": {
                 ""rn"": ""subRealBulbDevice"",
                 ""enc"": {""net"": [1]},
-                ""nu"": [""mqtt://127.0.0.1:1883/Real/Bulb/state?ct=json""],
-                ""exc"": 100
+                ""nu"": [""mqtt://127.0.0.1:1883/Real/Bulb/state?ct=json""]
             }
         }";
             string subscriptionURL = baseURL + AEName + "/Bulb/binarySwitch";
@@ -48,8 +47,7 @@ public class R_MobiusInitializer : MonoBehaviour
             ""m2m:sub"": {
                 ""rn"": ""subRealThermometerDevice"",
                 ""enc"": {""net"": [1]},
-                ""nu"": [""mqtt://127.0.0.1:1883/Real/Thermometer/value?ct=json""],
-                ""exc"": 100
+                ""nu"": [""mqtt://127.0.0.1:1883/Real/Thermometer/value?ct=json""]
             }
         }";
         string subscriptionURL = baseURL + AEName + "/Thermometer/temperature";
