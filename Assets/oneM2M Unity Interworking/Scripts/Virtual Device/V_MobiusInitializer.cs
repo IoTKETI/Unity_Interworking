@@ -77,8 +77,7 @@ public class V_MobiusInitializer : MonoBehaviour
             ""m2m:sub"": {
                 ""rn"": ""subVirtualBulbDevice"",
                 ""enc"": {""net"": [3]},
-                ""nu"": [""mqtt://127.0.0.1:1883/VirtualBulbDevice/binarySwitch?ct=json""],
-                ""exc"": 100
+                ""nu"": [""mqtt://127.0.0.1:1883/VirtualBulbDevice/binarySwitch?ct=json""]
             }
         }";
             string subscriptionURL = baseURL + "/Unity/Bulb/binarySwitch";
